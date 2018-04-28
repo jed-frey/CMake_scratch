@@ -1,1 +1,3 @@
-# CMake_scratch
+# CMake Scratch
+
+![](.img/neo.jpg)
